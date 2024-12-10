@@ -1,0 +1,9 @@
+
+body {
+  background-image: url('/images/background.jpg'); /* 设置背景图片路径 */
+  background-size: cover; /* 让图片覆盖整个页面 */
+  background-repeat: no-repeat; /* 禁止重复 */
+  background-attachment: fixed; /* 背景固定不随滚动 */
+  background-position: center; /* 居中对齐 */
+  min-height: 100vh; /* 设置最小高度为一屏 */
+}
